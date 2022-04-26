@@ -1,0 +1,71 @@
+img {
+    height: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: beige;
+    font-family: courier new;
+}
+
+.menu {
+    display: flex;
+    border: 3px dashed #FF0F73;
+    padding: 5px;
+    margin: 5px;
+    justify-content: space-between;
+    background-color: #FCAFCF;
+}
+
+.pictures {
+    border: solid 3px #FF0F73;
+    margin: 30px;
+    padding: 13px;
+}
+
+.songs {
+    border: solid 3px #FF0F73;
+    margin: 30px;
+    padding: 13px;
+}
+
+.awards {
+    border: solid 3px #FF0F73;
+    margin: 30px;
+    padding: 13px;
+}
+
+.szapics {
+    height: 160px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sza1 {
+    height: 160px;
+     border: solid #EDB0FC 5px;
+    margin: 2px;
+}
+
+.sza2 {
+    height: 160px;
+    width: 160px;
+     border: solid #EDB0FC 5px;
+    margin: 2px;
+}
+
+.sza3 {
+    height: 160px;
+     border: solid #EDB0FC 5px;
+    margin: 2px;
+}
+
+.sza4 {
+    height: 160px;
+     border: solid #EDB0FC 5px;
+    margin: 2px;
+}
